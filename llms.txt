@@ -1,0 +1,8 @@
+# Cabo Cellflex Landing Page
+
+Landing page para venda direta de Cabo Cellflex 1/2 50 Ohms por metro.
+
+- [Site principal](https://cabo-cellflex.pages.dev/)
+- [Detalhes do produto](https://cabo-cellflex.pages.dev/#produto)
+- [Preco e compra](https://cabo-cellflex.pages.dev/#comprar)
+- [WhatsApp de venda](https://wa.me/5511978746031)
